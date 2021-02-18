@@ -10,4 +10,7 @@ That is a huge difference! Also, with a T value of 2.44 and p value of <.05, it 
 
 Files included:
 -CSV (Dataset)
+
 -R script
+
+-Boxplot (output of line 20 of R script)
